@@ -40,8 +40,8 @@ El uso de claves seguras les permitirá a los empleados proteger sus datos priva
 
 •	Prototipo en papel.
 
-![Prototipo 1](Prototipoenpapel.jpeg "Prototipo 1")
+![Prototipo 1](Prototipoenpapel.jpeg)
 
 •	Prototipo final.
 
-![Prototipo 2](Prototipofinal.png "Prototipo 2")
+![Prototipo 2](Prototipofinal.png)
